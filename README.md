@@ -9,13 +9,11 @@ This project was accomplished for a mobile development element in my  4th-year i
 - SQLite
 
 
-
-
-<img src="/assets/screenshots/1.jpg">&nbsp;&nbsp;&nbsp;
-<img src="/assets/screenshots/2.jpg" >&nbsp;&nbsp;&nbsp;
-<img src="/assets/screenshots/3.jpg" width="250" height="320"><br><br>
-<img src="/assets/screenshots/4.jpg" width="250" height="320">&nbsp;&nbsp;&nbsp;
-<img src="/assets/screenshots/5.jpg" width="250" height="320">
+<img src="/assets/screenshots/1.jpg">
+<img src="/assets/screenshots/2.jpg" >
+<img src="/assets/screenshots/3.jpg" >
+<img src="/assets/screenshots/4.jpg" >
+<img src="/assets/screenshots/5.jpg">
 
 
 
